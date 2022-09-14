@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Desafio-W3.iml" filepath="$PROJECT_DIR$/.idea/Desafio-W3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/API-Pedido/totalshake.iml" filepath="$PROJECT_DIR$/API-Pedido/totalshake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-pedido/totalshake.iml" filepath="$PROJECT_DIR$/api-pedido/totalshake.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-pagamento/w3.iml" filepath="$PROJECT_DIR$/api-pagamento/w3.iml" />
       <module fileurl="file://$PROJECT_DIR$/API-Pagamento/w4.iml" filepath="$PROJECT_DIR$/API-Pagamento/w4.iml" />
     </modules>
